@@ -6,9 +6,9 @@
 
 <br/>
 
-![SIH2025](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-orange?style=for-the-badge&logo=india&logoColor=white)
+![SIH2025](https://img.shields.io/badge/🇮🇳%20Smart%20India%20Hackathon-2025-orange?style=for-the-badge)
 ![PS ID](https://img.shields.io/badge/Problem%20Statement-SIH25076-blue?style=for-the-badge)
-![Theme](https://img.shields.io/badge/Theme-Agriculture-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)
+![Theme](https://img.shields.io/badge/Theme-Agriculture-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
 ![Category](https://img.shields.io/badge/PS%20Category-Software-purple?style=for-the-badge)
 
 ![Team](https://img.shields.io/badge/Team-Tech%20Crafters-brightgreen?style=for-the-badge)
@@ -17,9 +17,11 @@
 
 <br/>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=techcrafters%2Ffarmwise&label=Visitors&countColor=%2337d67a&style=flat)
-![Stars](https://img.shields.io/github/stars/techcrafters/farmwise?style=social)
-![Forks](https://img.shields.io/github/forks/techcrafters/farmwise?style=social)
+<!-- ⚠️ The three badges below only render once this repo exists on GitHub —
+     replace YOUR-USERNAME/YOUR-REPO with your real GitHub path -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=YOUR-USERNAME%2FYOUR-REPO&label=Visitors&countColor=%2337d67a&style=flat)
+![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=social)
+![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO?style=social)
 
 </div>
 
@@ -118,7 +120,7 @@ flowchart LR
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI / ML
-![Gemini](https://img.shields.io/badge/Gemini%201.5%20Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%201.5%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -242,6 +244,13 @@ Contributions are what make the open-source community amazing! Any contributions
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+<div align="center">
 
 ### 🌾 Built with ❤️ for the farmers of India
 
