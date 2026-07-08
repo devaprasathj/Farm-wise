@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:8BC34A&height=220&section=header&text=FarmWise&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Based%20Farmer%20Query%20Support%20%26%20Advisory%20System&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:8BC34A&height=220&section=header&text=FarmWise&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI-Based%20Farmer%20Query%20Support%20and%20Advisory%20System&descAlignY=55&descSize=18&fontAlignY=35" width="100%"/>
 
 ### 🌾 Digital Krishi Officer &nbsp;•&nbsp; 🎙️ Voice-First Malayalam Support &nbsp;•&nbsp; 📸 Instant Crop Disease Diagnosis &nbsp;•&nbsp; 🤖 24/7 AI-Powered Advisory
 
