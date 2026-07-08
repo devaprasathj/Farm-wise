@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:8BC34A&height=220&section=header&text=FarmWise&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Based%20Farmer%20Query%20Support%20%26%20Advisory%20System&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Digital+Krishi+Officer+%F0%9F%8C%BE;Voice-First+Malayalam+Support+%F0%9F%8E%99%EF%B8%8F;Instant+Crop+Disease+Diagnosis+%F0%9F%93%B8;24%2F7+AI-Powered+Farming+Advisory+%F0%9F%A4%96" alt="Typing SVG" />
+### 🌾 Digital Krishi Officer &nbsp;•&nbsp; 🎙️ Voice-First Malayalam Support &nbsp;•&nbsp; 📸 Instant Crop Disease Diagnosis &nbsp;•&nbsp; 🤖 24/7 AI-Powered Advisory
 
 <br/>
 
